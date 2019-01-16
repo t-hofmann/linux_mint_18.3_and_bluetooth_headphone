@@ -1,5 +1,5 @@
 # linux_mint_18.3_and_bluetooth_headphone
-Solution for connecting bluetooth headphone "Bose QC35 II" with my LinuxMint 18.3 computer.
+Solution for connecting bluetooth headphone "Bose QC35 II" with LinuxMint 18.3.
 
 Copy/Add the configuration-file "audio.conf" to the directory "/etc/bluetooth/.".
 Change your local configuration-file /etc/bluetooth/main.conf so that it contains:
